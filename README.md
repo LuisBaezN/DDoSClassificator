@@ -1,4 +1,4 @@
-# DDoS Classificator and predictor
+# DDoS predictor
 
 In this project a LSTM is used to predict if a DDoS attack is going to happen within the next 10 seconds.
 
