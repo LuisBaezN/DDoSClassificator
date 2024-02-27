@@ -8,4 +8,4 @@ The data used to build this model was extracted from DDoS Evaluation Dataset (CI
 
 # Attention
 
-Full documentation and instructions to run this project is will be available soon.
+Full documentation and instructions to run this project will be available soon.
